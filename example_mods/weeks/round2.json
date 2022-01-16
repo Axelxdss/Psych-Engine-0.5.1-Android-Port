@@ -1,0 +1,75 @@
+{
+	"storyName": "The Whole Ass Mod",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"exe",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Too Slow",
+			"sonic",
+			[
+				0,
+				100,
+				213
+			]
+		],
+		[
+			"You Can't Run",
+			"sonic.exe",
+			[
+				0,
+				0,
+				93
+			]
+		],
+		[
+			"Triple Trouble",
+			"tailsexe",
+			[
+				20,
+				20,
+				33
+			]
+		],
+		[
+			"Endless",
+			"sonicfun",
+			[
+				0,
+				0,
+				233
+			]
+		],
+		[
+			"Milk",
+			"sunky",
+			[
+				0,
+				100,
+				233
+			]
+		],
+		[
+			"Chaos",
+			"fleetway",
+			[
+				255,
+				195,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week EXE"
+}
